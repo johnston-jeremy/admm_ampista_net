@@ -1,2 +1,0 @@
-Method_SNR_numlayers_Train_Test
-ampista_10_5_-14.4_-14.38
